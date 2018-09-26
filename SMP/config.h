@@ -48,4 +48,4 @@
 #endif
 #define HAVE_WINRT 0
 #define HAVE_BITDEPTH8 1
-#define HAVE_BITDEPTH10 1
+#define HAVE_BITDEPTH10 0
